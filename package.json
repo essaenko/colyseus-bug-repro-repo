@@ -44,7 +44,7 @@
     "@colyseus/monitor": "^0.16.0-preview.4",
     "@colyseus/playground": "^0.16.0-preview.14",
     "@colyseus/tools": "^0.16.0-preview.6",
-    "@colyseus/schema": "^3.0.0-alpha.42",
+    "@colyseus/schema": "^3.0.0-alpha.45",
     "classnames": "^2.5.1",
     "colyseus": "^0.16.0-preview.1",
     "colyseus.js": "^0.16.0-preview.25",
